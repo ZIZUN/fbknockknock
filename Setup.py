@@ -13,7 +13,6 @@ setup(
     ],
     packages            = find_packages(exclude = []),
     keywords            = ['fbknockknock'],
-    python_requires     = 'fbchat',
     package_data        = {},
     zip_safe            = False,
     classifiers         = [
