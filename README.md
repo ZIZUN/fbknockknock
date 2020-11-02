@@ -5,15 +5,11 @@
 설치법
 -------------
 
-.. code-block::
-
     pip install fbknockknock
 
 
 예제
 -------------
-
-.. code-block::
 
     from fbknockknock import fbknock
     myAccount = fbknock.login(id, password)
